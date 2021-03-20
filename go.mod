@@ -1,3 +1,3 @@
-module github.com/tommyjl/lsmv
+module github.com/tommyjl/mve
 
 go 1.16
